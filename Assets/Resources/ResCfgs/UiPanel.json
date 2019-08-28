@@ -1,0 +1,74 @@
+{
+  "infoList": [
+
+    {
+      "Key": "BattleEndWind",
+      "Value": "PrefabsWind/BattleEndWind"
+    },
+
+    {
+      "Key": "BattleWind",
+      "Value": "PrefabsWind/BattleWind"
+    },
+
+    {
+      "Key": "BuyWind",
+      "Value": "PrefabsWind/BuyWind"
+    },
+
+    {
+      "Key": "ChatWind",
+      "Value": "PrefabsWind/ChatWind"
+    },
+
+    {
+      "Key": "CopyWind",
+      "Value": "PrefabsWind/CopyWind"
+    },
+
+    {
+      "Key": "DataWind",
+      "Value": "PrefabsWind/DataWind"
+    },
+
+    {
+      "Key": "DynamicWind",
+      "Value": "PrefabsWind/DynamicWind"
+    },
+
+    {
+      "Key": "GuideWind",
+      "Value": "PrefabsWind/GuideWind"
+    },
+
+    {
+      "Key": "LoadingWind",
+      "Value": "PrefabsWind/LoadingWind"
+    },
+
+    {
+      "Key": "LoginWind",
+      "Value": "PrefabsWind/LoginWind"
+    },
+
+    {
+      "Key": "MainWind",
+      "Value": "PrefabsWind/MainWind"
+    },
+
+    {
+      "Key": "PlayCreatWind",
+      "Value": "PrefabsWind/PlayCreatWind"
+    },
+
+    {
+      "Key": "StrongWind",
+      "Value": "PrefabsWind/StrongWind"
+    },
+
+    {
+      "Key": "TaskWind",
+      "Value": "PrefabsWind/TaskWind"
+    }
+  ]
+}

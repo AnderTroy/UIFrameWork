@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item ID="1">
+    <key>BattleEndWind</key>
+		<path>ResUi/BattleEndWind</path>
+	</item>
+	<item ID="2">
+    <key>BattleWind</key>
+    <path>ResUi/BattleWind</path>
+	</item>
+	<item ID="3">
+    <key>BuyWind</key>
+    <path>ResUi/BuyWind</path>
+	</item>
+	<item ID="4">
+    <key>ChatWind</key>
+    <path>ResUi/ChatWind</path>
+	</item>
+	<item ID="5">
+    <key>CopyWind</key>
+    <path>ResUi/CopyWind</path>
+	</item>
+	<item ID="6">
+    <key>DataWind</key>
+    <path>ResUi/DataWind</path>
+	</item>	
+  <item ID="7">
+    <key>DynamicWind</key>
+    <path>ResUi/DynamicWind</path>
+	</item>
+  <item ID="8">
+    <key>GuideWind</key>
+    <path>ResUi/GuideWind</path>
+	</item>
+  <item ID="9">
+    <key>LoadingWind</key>
+    <path>ResUi/LoadingWind</path>
+	</item>
+  <item ID="10">
+    <key>LoginWind</key>
+    <path>ResUi/LoginWind</path>
+	</item>
+  <item ID="11">
+    <key>MainCityWind</key>
+    <path>ResUi/MainCityWind</path>
+	</item>
+  <item ID="12">
+    <key>CreateWind</key>
+    <path>ResUi/CreateWind</path>
+	</item>
+  <item ID="13">
+    <key>StrongWind</key>
+    <path>ResUi/StrongWind</path>
+	</item>
+  <item ID="14">
+    <key>TaskWind</key>
+    <path>ResUi/TaskWind</path>
+	</item> 
+  <item ID="15">
+    <key>DataText</key>
+    <path>ResUi/DataText</path>
+	</item>
+</root>
